@@ -2,6 +2,8 @@ I'm trying to learn more about data analysis methods, including artificial intel
 
 I am also keeping a private document containing everything I'm learning that I may publicly release in the future.
 
+*Note to self:* I deleted the local 145 GB ImageNet dataset to free up some disk space on my pc. At the time of deleting these files, I forgot how this repo works, so it's probably best to ask a coding agent (cursor, claude code, etc.) to sift through the repo (and read the readme) to figure out how to import the ImageNet data, setup the ImageNet data, and get all the models working, if you want to play around with this repo again. The bottom of this README mentions a util script that may be related to setting up imagenet
+
 #### Implemented Projects
 - Spam text classifier. Implemented with RNN and LSTM
 - Hand written number generator. Implemented using GANs
